@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Soma Dois Números</string>
+    <string name="opSoma">+</string>
+    <string name="erro_campo_vazio">Preencha os 2 campos</string>
+</resources>
